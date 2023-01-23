@@ -1,8 +1,10 @@
 
 # Ignore .mp3 mp4 and docx
 *.docx
+*.docx#
 *.mp3
 *.mp4
+
 
 
 # Byte-compiled / optimized / DLL files
