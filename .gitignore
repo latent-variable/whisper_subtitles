@@ -5,6 +5,8 @@
 *.mp3
 *.mp4
 
+# hide token files
+*.token
 
 
 # Byte-compiled / optimized / DLL files
