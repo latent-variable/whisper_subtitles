@@ -4,6 +4,7 @@
 *.docx#
 *.mp3
 *.mp4
+*.srt
 
 # hide token files
 *.token
